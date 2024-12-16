@@ -85,7 +85,7 @@ npm install
 npm run build
 Php artisan key:generate
 Php artisan Migrate
-Php artisan db:seed AdminSeeder
+Php artisan db:seed
 Php artisan Storage:link
 npm run dev (terminal baru)
 Php artisan serve
